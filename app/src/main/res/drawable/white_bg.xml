@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--圆角-->
+    <corners android:radius = "5dp"/>
+    <solid
+        android:color="@color/color_ffffff"
+    />
+
+    <!--
+    颜色过度
+    <gradient
+        android:startColor="@color/color_ffffff"
+        android:endColor="@color/color_ff3300"
+        />
+
+    黑色的边
+    <stroke
+        android:width="1dp"
+        android:color="@color/calendar_saturday"
+        />
+    -->
+</shape>
